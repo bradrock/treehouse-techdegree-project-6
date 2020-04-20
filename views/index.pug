@@ -1,0 +1,21 @@
+extends layout.pug
+
+block content 
+  article.grid-container.portfolio-intro
+    div
+
+      h1 Hey, I'm Brad Rock.
+
+      p.lead.text-light
+        | I'm a full stack JavaScript developer. I made this site to showcase some of the projects I've completed.
+  article.grid-container.portfolio-index
+    
+    .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
+
+     
+      each project in projects
+        .cell
+          a(href= '/project/' + project.id)
+            img.thumbnail(src= '/static/' + project.image_urls[0])
+            h5(style="font-weight: bold")= project.project_name
+      
