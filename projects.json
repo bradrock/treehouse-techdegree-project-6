@@ -4,14 +4,16 @@
         {
             "id":"0",
             "project_name":"Random Quote Generator",
+            "description": "A JavaScript app that generates random quotes.",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-1/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-1",
-            "image_urls": ["images/project1/project1-1.jpg", "static/images/project1/project1-2.jpg", "images/project1/project1-3.jpg", "images/project1/project1-4.jpg"]
+            "image_urls": ["images/project1/project1-1.jpg", "images/project1/project1-2.jpg", "images/project1/project1-3.jpg"]
         },
         {
             "id":"1",
             "project_name":"List Pagination and Filtering",
+            "description": "A JavaScript app representing a mock student directory, employing use of pagination and filtering via search field.",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-2/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-2",
@@ -20,14 +22,16 @@
         {
             "id":"2",
             "project_name":"Interactive Form",
+            "description": "A registration form for a fictional technology conference, with dynamic field validation instituted via JavaScript.",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-3/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-3",
-            "image_urls": ["images/project3/project3-1.jpg", "images/project2/project3-2.jpg", "images/project3/project3-3.jpg", "images/project3/project3-4.jpg"]
+            "image_urls": ["images/project3/project3-1.jpg", "images/project3/project3-2.jpg", "images/project3/project3-3.jpg"]
         },
         {
             "id":"3",
             "project_name":"OOP Game Show App",
+            "description": "A JavaScript-based game app wherein the player tries to complete a phrase by guessing letters. If the player makes five incorrect guesses, the game ends and the player loses.",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-4/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-4",
@@ -36,10 +40,11 @@
         {
             "id":"4",
             "project_name":"Public API Requests",
+            "description": "A JavaScript-generated directory page for a fictional company which is populated by requesting data from the Random User Generator API (randomuser.me).",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-5/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-5",
-            "image_urls": ["images/project5/project5-1.jpg", "images/project5/project5-2.jpg", "images/project5/project5-3.jpg", "images/project5/project5-4.jpg"]
+            "image_urls": ["images/project5/project5-1.jpg", "images/project5/project5-2.jpg"]
         }
 
     ]
