@@ -4,7 +4,7 @@
         {
             "id":"0",
             "project_name":"Random Quote Generator",
-            "description": "A JavaScript app that generates random quotes.",
+            "description": "A JavaScript app that displays a random quote from a set pool of quotes when the user clicks a button. A new quote is also generated at regular time intervals even without user input.",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-1/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-1",
@@ -13,11 +13,11 @@
         {
             "id":"1",
             "project_name":"List Pagination and Filtering",
-            "description": "A JavaScript app representing a mock student directory, employing use of pagination and filtering via search field.",
+            "description": "A JavaScript app representing a mock student directory, employing use of pagination and filtering via a search field.",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-2/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-2",
-            "image_urls": ["images/project2/project2-1.jpg", "images/project2/project2-2.jpg", "images/project2/project2-3.jpg", "images/project2/project2-4.jpg"]
+            "image_urls": ["images/project2/project2-1.jpg", "images/project2/project2-2.jpg", "images/project2/project2-3.jpg"]
         },
         {
             "id":"2",
@@ -40,7 +40,7 @@
         {
             "id":"4",
             "project_name":"Public API Requests",
-            "description": "A JavaScript-generated directory page for a fictional company which is populated by requesting data from the Random User Generator API (randomuser.me).",
+            "description": "A JavaScript-generated directory page for a fictional company which is populated by a data request from the Random User Generator API (randomuser.me).",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-5/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-5",

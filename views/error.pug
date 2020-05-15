@@ -4,3 +4,5 @@ block content
     article.grid-container.portfolio-intro
         div
             h1= error.message
+            h3= "Error code: " + error.status
+            p= error.stack
