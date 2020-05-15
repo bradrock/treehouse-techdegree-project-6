@@ -8,7 +8,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-1/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-1",
-            "image_urls": ["images/project1/project1-1.jpg", "images/project1/project1-2.jpg", "images/project1/project1-3.jpg"]
+            "image_urls": ["images/project1/project1-0.jpg", "images/project1/project1-1.jpg", "images/project1/project1-2.jpg", "images/project1/project1-3.jpg"]
         },
         {
             "id":"1",
@@ -17,7 +17,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-2/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-2",
-            "image_urls": ["images/project2/project2-1.jpg", "images/project2/project2-2.jpg", "images/project2/project2-3.jpg"]
+            "image_urls": ["images/project2/project2-0.jpg", "images/project2/project2-1.jpg", "images/project2/project2-2.jpg", "images/project2/project2-3.jpg"]
         },
         {
             "id":"2",
@@ -26,7 +26,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-3/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-3",
-            "image_urls": ["images/project3/project3-1.jpg", "images/project3/project3-2.jpg", "images/project3/project3-3.jpg"]
+            "image_urls": ["images/project3/project3-0.jpg", "images/project3/project3-1.jpg", "images/project3/project3-2.jpg", "images/project3/project3-3.jpg"]
         },
         {
             "id":"3",
@@ -35,7 +35,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-4/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-4",
-            "image_urls": ["images/project4/project4-1.jpg", "images/project4/project4-2.jpg", "images/project4/project4-3.jpg", "images/project4/project4-4.jpg"]
+            "image_urls": ["images/project4/project4-0.jpg", "images/project4/project4-1.jpg", "images/project4/project4-2.jpg", "images/project4/project4-3.jpg", "images/project4/project4-4.jpg"]
         },
         {
             "id":"4",
@@ -44,7 +44,7 @@
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https://bradrock.github.io/treehouse-techdegree-project-5/",
             "github_link": "https://github.com/bradrock/treehouse-techdegree-project-5",
-            "image_urls": ["images/project5/project5-1.jpg", "images/project5/project5-2.jpg"]
+            "image_urls": ["images/project5/project5-0.jpg", "images/project5/project5-1.jpg", "images/project5/project5-2.jpg"]
         }
 
     ]
